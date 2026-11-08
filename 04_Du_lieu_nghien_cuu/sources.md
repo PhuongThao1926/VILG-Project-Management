@@ -1,5 +1,5 @@
 DANH MỤC TÀI LIỆU NGHIÊN CỨU – VILG AN GIANG
-A. Tài liệu bắt buộc đọc trước
+
 1. Project Appraisal Document (PAD) – World Bank, 2016
    - Dùng cho: mục tiêu dự án, phạm vi, cấu phần, ngân sách ban đầu, cơ cấu triển khai, stakeholder cấp dự án.
    - Link: https://documents1.worldbank.org/curated/en/696171467818164180/pdf/PAD1780-REVISED-OUO-9-IDA-R2016-0166-2.pdf
