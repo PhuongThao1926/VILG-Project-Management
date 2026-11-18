@@ -68,3 +68,23 @@ D. Bằng chứng triển khai thực tế tại An Giang
     - Thời gian thực hiện: 30 ngày.
     - Dùng cho: procurement, technology transfer, cost và resource planning.
     - Link: https://dauthau.asia/ketqua/luachon-nhathau/goi-thau-so-14-chuyen-giao-cong-nghe-1214992.html
+20. Báo cáo 142/BC-STNMT ngày 26/06/2023 – Sở TN&MT An Giang
+    - Cơ quan ban hành: Sở TN&MT An Giang.
+    - Ngày ban hành: 26/06/2023.
+    - Nội dung: báo cáo về tình hình thực hiện dự án VILG tại An Giang.
+    - Phạm vi: ghi nhận các gói thi công và giám sát xây dựng cơ sở dữ liệu đất đai tại 11 huyện, thị xã, thành phố.
+    - Kết quả: đề cập việc nghiệm thu các gói xây dựng cơ sở dữ liệu và mua sắm thiết bị.
+    - Dùng cho: xác định phạm vi WBS, nhóm sản phẩm bàn giao và đối chiếu kết quả thực hiện dự án.
+    - Link: https://dti.angiang.gov.vn/sites/default/files/2023-11/142-bc-stnmt-26-6-2023signed.pdf
+21. Quyết định 1141/QĐ-BTNMT ngày 20/05/2020 – Sổ tay hướng dẫn thực hiện VILG
+    - Cơ quan ban hành: Bộ Tài nguyên và Môi trường.
+    - Ngày ban hành: 20/05/2020.
+    - Nội dung: phê duyệt Sổ tay hướng dẫn thực hiện dự án VILG.
+    - Văn bản liên quan: thay thế Quyết định 1364/QĐ-BTNMT năm 2019.
+    - Dùng cho: tham chiếu quy trình triển khai, trách nhiệm quản lý và hỗ trợ phân rã các Work Package trong WBS.
+    - Link: https://thuvienphapluat.vn/van-ban/Bat-dong-san/Quyet-dinh-1141-QD-BTNMT-2020-Tang-cuong-quan-ly-dat-dai-va-co-so-du-lieu-dat-dai-457615.aspx
+22. Báo cáo sơ kết triển khai Đề án 06/CP năm 2024 – UBND tỉnh An Giang
+    - Cơ quan: UBND tỉnh An Giang.
+    - Nội dung: tổng hợp tình hình xây dựng, khai thác và sử dụng cơ sở dữ liệu đất đai.
+    - Dùng cho: đối chiếu phạm vi, tiến độ và kết quả thực hiện khi xây dựng WBS và Project Schedule.
+    - Link: https://dti.angiang.gov.vn/sites/default/files/2025-02/TLHN/bao-cao-so-ket-de-an-06-chinh-phu-nam-2024-23-2.pdf
